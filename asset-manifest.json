@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/javiergarber/xanastur_concept/static/css/main.a43f1597.chunk.css",
+    "main.js": "/javiergarber/xanastur_concept/static/js/main.40e96921.chunk.js",
+    "main.js.map": "/javiergarber/xanastur_concept/static/js/main.40e96921.chunk.js.map",
+    "runtime-main.js": "/javiergarber/xanastur_concept/static/js/runtime-main.e81bcf65.js",
+    "runtime-main.js.map": "/javiergarber/xanastur_concept/static/js/runtime-main.e81bcf65.js.map",
+    "static/js/2.a8fde1ab.chunk.js": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js",
+    "static/js/2.a8fde1ab.chunk.js.map": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js.map",
+    "index.html": "/javiergarber/xanastur_concept/index.html",
+    "precache-manifest.fa5436458fcca366e3f1bb6d4abae2d5.js": "/javiergarber/xanastur_concept/precache-manifest.fa5436458fcca366e3f1bb6d4abae2d5.js",
+    "service-worker.js": "/javiergarber/xanastur_concept/service-worker.js",
+    "static/css/main.a43f1597.chunk.css.map": "/javiergarber/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
+    "static/js/2.a8fde1ab.chunk.js.LICENSE.txt": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e81bcf65.js",
+    "static/js/2.a8fde1ab.chunk.js",
+    "static/css/main.a43f1597.chunk.css",
+    "static/js/main.40e96921.chunk.js"
+  ]
+}
