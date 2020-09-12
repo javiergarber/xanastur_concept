@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xanastur_concept/precache-manifest.9aab4c12808e404290fc71cbd1a7cac1.js"
+  "/xanastur_concept/precache-manifest.82218fcf1a111f34de71bb46044a8d1e.js"
 );
 
 self.addEventListener('message', (event) => {
