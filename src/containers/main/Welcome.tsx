@@ -14,7 +14,6 @@ export default class Welcome extends Component {
             <h1>Xanastur</h1>
             <h2>centro canino</h2>
             <Link
-              
               activeClass="active"
               to="scrollAnchor"
               smooth={true}
@@ -60,7 +59,11 @@ export default class Welcome extends Component {
           <section id="quienes_somos">
             <h2>Quienes somos</h2>
             <div>
-              <img id="quienes_somos_img" src="/images/image1.jpg" alt="" />
+              <img
+                id="quienes_somos_img"
+                src={process.env.PUBLIC_URL + "/images/image1.jpg"}
+                alt=""
+              />
               <p>
                 Tu centro canino especializado. Apostamos por la
                 <b> educación </b> canina en positivo y por la concienciación
