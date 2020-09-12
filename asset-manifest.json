@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/javiergarber/xanastur_concept/static/css/main.a43f1597.chunk.css",
-    "main.js": "/javiergarber/xanastur_concept/static/js/main.40e96921.chunk.js",
-    "main.js.map": "/javiergarber/xanastur_concept/static/js/main.40e96921.chunk.js.map",
-    "runtime-main.js": "/javiergarber/xanastur_concept/static/js/runtime-main.e81bcf65.js",
-    "runtime-main.js.map": "/javiergarber/xanastur_concept/static/js/runtime-main.e81bcf65.js.map",
-    "static/js/2.a8fde1ab.chunk.js": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js",
-    "static/js/2.a8fde1ab.chunk.js.map": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js.map",
-    "index.html": "/javiergarber/xanastur_concept/index.html",
-    "precache-manifest.fa5436458fcca366e3f1bb6d4abae2d5.js": "/javiergarber/xanastur_concept/precache-manifest.fa5436458fcca366e3f1bb6d4abae2d5.js",
-    "service-worker.js": "/javiergarber/xanastur_concept/service-worker.js",
-    "static/css/main.a43f1597.chunk.css.map": "/javiergarber/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
-    "static/js/2.a8fde1ab.chunk.js.LICENSE.txt": "/javiergarber/xanastur_concept/static/js/2.a8fde1ab.chunk.js.LICENSE.txt"
+    "main.css": "/xanastur_concept/static/css/main.a43f1597.chunk.css",
+    "main.js": "/xanastur_concept/static/js/main.2b248134.chunk.js",
+    "main.js.map": "/xanastur_concept/static/js/main.2b248134.chunk.js.map",
+    "runtime-main.js": "/xanastur_concept/static/js/runtime-main.093b1360.js",
+    "runtime-main.js.map": "/xanastur_concept/static/js/runtime-main.093b1360.js.map",
+    "static/js/2.b237c8b9.chunk.js": "/xanastur_concept/static/js/2.b237c8b9.chunk.js",
+    "static/js/2.b237c8b9.chunk.js.map": "/xanastur_concept/static/js/2.b237c8b9.chunk.js.map",
+    "index.html": "/xanastur_concept/index.html",
+    "precache-manifest.9aab4c12808e404290fc71cbd1a7cac1.js": "/xanastur_concept/precache-manifest.9aab4c12808e404290fc71cbd1a7cac1.js",
+    "service-worker.js": "/xanastur_concept/service-worker.js",
+    "static/css/main.a43f1597.chunk.css.map": "/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
+    "static/js/2.b237c8b9.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.b237c8b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e81bcf65.js",
-    "static/js/2.a8fde1ab.chunk.js",
+    "static/js/runtime-main.093b1360.js",
+    "static/js/2.b237c8b9.chunk.js",
     "static/css/main.a43f1597.chunk.css",
-    "static/js/main.40e96921.chunk.js"
+    "static/js/main.2b248134.chunk.js"
   ]
 }
