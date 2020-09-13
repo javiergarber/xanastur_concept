@@ -1,11 +1,28 @@
-import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import React, { useEffect } from "react";
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  useLocation,
+} from "react-router-dom";
 import "./App.scss";
 import Welcome from "./containers/main/Welcome";
+import Services from "./containers/servicios/Services";
+
+export function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+}
 function App() {
   return (
     <Router>
       <div>
+        <ScrollToTop />
         {/* <nav>
           <ul>
             <li>
@@ -23,8 +40,11 @@ function App() {
         {/* A <Switch> looks through its children <Route>s and
       renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/">
+          <Route exact path="/">
             <Welcome />
+          </Route>
+          <Route path="/servicios">
+            <Services />
           </Route>
         </Switch>
       </div>
