@@ -4,8 +4,10 @@ import {
   Route,
   Switch,
   useLocation,
+  
 } from "react-router-dom";
 import "./App.scss";
+import MyGallery from "./containers/gallery/Gallery";
 import Welcome from "./containers/main/Welcome";
 import Services from "./containers/servicios/Services";
 
@@ -46,6 +48,9 @@ function App() {
           </Route>
           <Route path="/servicios">
             <Services />
+          </Route>
+          <Route path="/galeria">
+            <MyGallery />
           </Route>
         </Switch>
       </div>
