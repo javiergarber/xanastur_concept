@@ -1,11 +1,5 @@
 import React, { useEffect } from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  useLocation,
-  
-} from "react-router-dom";
+import { HashRouter, Route, Switch, useLocation } from "react-router-dom";
 import "./App.scss";
 import MyGallery from "./containers/gallery/Gallery";
 import Welcome from "./containers/main/Welcome";
@@ -22,7 +16,7 @@ export function ScrollToTop() {
 }
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <div>
         <ScrollToTop />
         {/* <nav>
@@ -54,7 +48,7 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
