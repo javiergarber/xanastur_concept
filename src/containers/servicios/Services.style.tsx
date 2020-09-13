@@ -13,6 +13,7 @@ export const ServicesPage = styled.div`
       }
       @media screen and (max-width: ${SIZES.large}) {
         text-align: center !important;
+        margin: 1em auto;
       }
     }
     .content {
@@ -25,6 +26,8 @@ export const ServicesPage = styled.div`
         animation: slice-left 1.5s;
         @media screen and (max-width: ${SIZES.large}) {
           margin: auto 0 !important;
+
+          text-align: center;
         }
       }
       @keyframes slice-right {
@@ -43,6 +46,7 @@ export const ServicesPage = styled.div`
         animation: slice-right 0.5s;
         @media screen and (max-width: ${SIZES.large}) {
           margin: auto 0 !important;
+          text-align: center;
         }
       }
       @keyframes slice-left {
