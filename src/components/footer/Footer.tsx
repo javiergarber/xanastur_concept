@@ -27,22 +27,22 @@ export default class Footer extends Component {
           <Sponsors>
             <h3>Nuestros patrocinadores</h3>
             <div className="images">
-              <img src="/images/sponsors/canedupo.jpg" alt="" />
-              <img src="/images/sponsors/arion.jpg" alt="" />
-              <img src="/images/sponsors/planet_futbol.jpg" alt="" />
-              <img src="/images/sponsors/rota_empotrados.jpg" alt="" />
-              <img src="/images/sponsors/deporte_as.jpeg" alt="" />
+              <img src={require("./assets/canedupo.jpg")} alt="" />
+              <img src={require("./assets/arion.jpg")} alt="" />
+              <img src={require("./assets/planet_futbol.jpg")} alt="" />
+              <img src={require("./assets/rota_empotrados.jpg")} alt="" />
+              <img src={require("./assets/deporte_as.jpeg")} alt="" />
               <img
-                src="/images/sponsors/centro_veterinario_montevil.jpg"
+                src={require("./assets/centro_veterinario_montevil.jpg")}
                 alt=""
               />
-              <img src="/images/sponsors/agility_cor.jpg" alt="" />
+              <img src={require("./assets/agility_cor.jpg")} alt="" />
             </div>
           </Sponsors>
           <League>
             <h3>Competimos en</h3>
             <img
-              src="/images/sponsors/real_sociedad_canina_española.png"
+              src={require("./assets/real_sociedad_canina_española.png")}
               alt=""
             />
           </League>
@@ -59,16 +59,16 @@ export default class Footer extends Component {
           </DesignedByWrapper>
           <ContactIconsWrapper>
             <a href="">
-              <img src="/icons/social/001-facebook.svg" alt="" />
+              <img src={require("./assets/001-facebook.svg")} alt="" />
             </a>
             <a href="">
-              <img src="/icons/social/008-youtube.svg" alt="" />
+              <img src={require("./assets/008-youtube.svg")} alt="" />
             </a>
             <a href="">
-              <img src="/icons/social/003-whatsapp.svg" alt="" />
+              <img src={require("./assets/003-whatsapp.svg")} alt="" />
             </a>
             <a href="">
-              <img src="/icons/social/017-mail.svg" alt="" />
+              <img src={require("./assets/017-mail.svg")} alt="" />
             </a>
           </ContactIconsWrapper>
         </BottomFooter>

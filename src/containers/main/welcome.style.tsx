@@ -1,11 +1,12 @@
 import styled from "styled-components";
+import bgImage from "./assets/cover.jpeg";
 export const Cover = styled.section`
   &::before {
     position: absolute;
     width: 100%;
     height: 100%;
     content: "";
-    background-image: url("/images/cover.jpeg");
+    background-image: url(${bgImage});
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

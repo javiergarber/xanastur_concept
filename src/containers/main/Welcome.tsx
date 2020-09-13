@@ -9,7 +9,6 @@ export default class Welcome extends Component {
     return (
       <Fragment>
         <Cover>
-          {/* <img src="/images/cover.jpeg" alt="" /> */}
           <div id="title">
             <h1>Xanastur</h1>
             <h2>centro canino</h2>
@@ -20,7 +19,11 @@ export default class Welcome extends Component {
               offset={-70}
               duration={500}
             >
-              <img id="down_arrow" src="/icons/down_arrow.svg" alt="" />
+              <img
+                id="down_arrow"
+                src={require("./assets/down_arrow.svg")}
+                alt=""
+              />
             </Link>
           </div>
         </Cover>
@@ -61,7 +64,7 @@ export default class Welcome extends Component {
             <div>
               <img
                 id="quienes_somos_img"
-                src={process.env.PUBLIC_URL + "/images/image1.jpg"}
+                src={require("./assets/image1.jpg")}
                 alt=""
               />
               <p>
