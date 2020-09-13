@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22d0a528e72be74d7eb9c2d23c961915",
+    "revision": "2dbf6bdc1d54690697d884d856ca0fea",
     "url": "/xanastur_concept/index.html"
   },
   {
-    "revision": "f03431bf5b005531e66e",
+    "revision": "c83d2a63487cd74d791e",
     "url": "/xanastur_concept/static/css/main.a43f1597.chunk.css"
   },
   {
-    "revision": "80266a15b7f23f4a1b5e",
-    "url": "/xanastur_concept/static/js/2.80a90c68.chunk.js"
+    "revision": "c1a60fc41a5a7275954b",
+    "url": "/xanastur_concept/static/js/2.44a0669d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/xanastur_concept/static/js/2.80a90c68.chunk.js.LICENSE.txt"
+    "url": "/xanastur_concept/static/js/2.44a0669d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f03431bf5b005531e66e",
-    "url": "/xanastur_concept/static/js/main.704e3017.chunk.js"
+    "revision": "c83d2a63487cd74d791e",
+    "url": "/xanastur_concept/static/js/main.17f0ecc0.chunk.js"
   },
   {
     "revision": "3664f36a2b84bab98c6e",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e93d576182b97d2e874ee8137dbb4af7",
     "url": "/xanastur_concept/static/media/017-mail.e93d5761.svg"
+  },
+  {
+    "revision": "6a514a00174ca430f3fbfbd7825c4cfe",
+    "url": "/xanastur_concept/static/media/agility.6a514a00.jpg"
   },
   {
     "revision": "0e976d9ea1a613e9c826200f7cdfcf3c",
@@ -64,8 +68,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xanastur_concept/static/media/down_arrow.4ddd64c2.svg"
   },
   {
+    "revision": "325b1532767032d50c5651dabffd333b",
+    "url": "/xanastur_concept/static/media/frisbee.325b1532.jpg"
+  },
+  {
+    "revision": "6e4cb3559541e7ccf951bf9d495a8cf6",
+    "url": "/xanastur_concept/static/media/habilidades_caninas.6e4cb355.jpg"
+  },
+  {
     "revision": "a54c5efa2cc0395f02d1ca1dfc5d23e1",
     "url": "/xanastur_concept/static/media/image1.a54c5efa.jpg"
+  },
+  {
+    "revision": "6397aa11de101acd16415cc5724460af",
+    "url": "/xanastur_concept/static/media/logo_xanastur.6397aa11.jpg"
+  },
+  {
+    "revision": "4ee3468984d2d9534022da488850a149",
+    "url": "/xanastur_concept/static/media/obediencia.4ee34689.jpeg"
   },
   {
     "revision": "381b6dae5999ea1a7067255cfa0dc438",
