@@ -23,11 +23,7 @@ export default class Navbar extends Component {
               Nuestro club
             </Link>
           </li>
-          <li>
-            <Link className="customLink" to="/contacto">
-              Contacto
-            </Link>
-          </li>
+
           <li>
             <Link className="customLink" to="/galeria">
               Galería
@@ -41,6 +37,11 @@ export default class Navbar extends Component {
           <li>
             <Link className="customLink" to="/artesania">
               Artesanía
+            </Link>
+          </li>
+          <li>
+            <Link className="customLink" to="/contacto">
+              Contacto
             </Link>
           </li>
         </ul>

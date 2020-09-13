@@ -46,10 +46,14 @@ export const Sponsors = styled.div`
     img {
       margin-bottom: 1em;
       border-radius: 3px;
-      width: 50px;
-      height: 50px;
+      width: 70px;
+      height: 70px;
       margin-right: 1em;
       cursor: pointer;
+      transition: 0.5s;
+      :hover {
+        transform: scale(1.5);
+      }
     }
   }
 `;

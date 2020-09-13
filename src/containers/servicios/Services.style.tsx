@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { SIZES } from "../../theme";
 export const ServicesPage = styled.div`
-  padding: 0 5vw;
+  padding: 0 5vw 5vw 5vw;
   section {
     h2 {
       margin: 1em 4em;
