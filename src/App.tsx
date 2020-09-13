@@ -20,7 +20,7 @@ export function ScrollToTop() {
 }
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <ScrollToTop />
         {/* <nav>
@@ -39,6 +39,7 @@ function App() {
 
         {/* A <Switch> looks through its children <Route>s and
       renders the first one that matches the current URL. */}
+        {/* <BrowserRouter basename="/xanastur_concept" /> */}
         <Switch>
           <Route exact path="/">
             <Welcome />
