@@ -1,22 +1,35 @@
 {
   "files": {
     "main.css": "/xanastur_concept/static/css/main.a43f1597.chunk.css",
-    "main.js": "/xanastur_concept/static/js/main.77cf8244.chunk.js",
-    "main.js.map": "/xanastur_concept/static/js/main.77cf8244.chunk.js.map",
+    "main.js": "/xanastur_concept/static/js/main.b975d7ea.chunk.js",
+    "main.js.map": "/xanastur_concept/static/js/main.b975d7ea.chunk.js.map",
     "runtime-main.js": "/xanastur_concept/static/js/runtime-main.093b1360.js",
     "runtime-main.js.map": "/xanastur_concept/static/js/runtime-main.093b1360.js.map",
-    "static/js/2.b237c8b9.chunk.js": "/xanastur_concept/static/js/2.b237c8b9.chunk.js",
-    "static/js/2.b237c8b9.chunk.js.map": "/xanastur_concept/static/js/2.b237c8b9.chunk.js.map",
+    "static/js/2.80a90c68.chunk.js": "/xanastur_concept/static/js/2.80a90c68.chunk.js",
+    "static/js/2.80a90c68.chunk.js.map": "/xanastur_concept/static/js/2.80a90c68.chunk.js.map",
     "index.html": "/xanastur_concept/index.html",
-    "precache-manifest.82218fcf1a111f34de71bb46044a8d1e.js": "/xanastur_concept/precache-manifest.82218fcf1a111f34de71bb46044a8d1e.js",
+    "precache-manifest.28f43a8ba875631426f2aeea132b42e5.js": "/xanastur_concept/precache-manifest.28f43a8ba875631426f2aeea132b42e5.js",
     "service-worker.js": "/xanastur_concept/service-worker.js",
     "static/css/main.a43f1597.chunk.css.map": "/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
-    "static/js/2.b237c8b9.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.b237c8b9.chunk.js.LICENSE.txt"
+    "static/js/2.80a90c68.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.80a90c68.chunk.js.LICENSE.txt",
+    "static/media/001-facebook.svg": "/xanastur_concept/static/media/001-facebook.57d3f125.svg",
+    "static/media/003-whatsapp.svg": "/xanastur_concept/static/media/003-whatsapp.db267fdf.svg",
+    "static/media/008-youtube.svg": "/xanastur_concept/static/media/008-youtube.e571414b.svg",
+    "static/media/017-mail.svg": "/xanastur_concept/static/media/017-mail.e93d5761.svg",
+    "static/media/agility_cor.jpg": "/xanastur_concept/static/media/agility_cor.0e976d9e.jpg",
+    "static/media/arion.jpg": "/xanastur_concept/static/media/arion.e8b345e4.jpg",
+    "static/media/canedupo.jpg": "/xanastur_concept/static/media/canedupo.dbd61bb5.jpg",
+    "static/media/centro_veterinario_montevil.jpg": "/xanastur_concept/static/media/centro_veterinario_montevil.4ba70043.jpg",
+    "static/media/deporte_as.jpeg": "/xanastur_concept/static/media/deporte_as.578e20b2.jpeg",
+    "static/media/down_arrow.svg": "/xanastur_concept/static/media/down_arrow.4ddd64c2.svg",
+    "static/media/image1.jpg": "/xanastur_concept/static/media/image1.a54c5efa.jpg",
+    "static/media/real_sociedad_canina_española.png": "/xanastur_concept/static/media/real_sociedad_canina_española.381b6dae.png",
+    "static/media/rota_empotrados.jpg": "/xanastur_concept/static/media/rota_empotrados.2d753af7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.093b1360.js",
-    "static/js/2.b237c8b9.chunk.js",
+    "static/js/2.80a90c68.chunk.js",
     "static/css/main.a43f1597.chunk.css",
-    "static/js/main.77cf8244.chunk.js"
+    "static/js/main.b975d7ea.chunk.js"
   ]
 }
