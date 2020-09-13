@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dbf6bdc1d54690697d884d856ca0fea",
+    "revision": "daa119a2fbee2bf6d9af1ce7912cdacf",
     "url": "/xanastur_concept/index.html"
   },
   {
-    "revision": "c83d2a63487cd74d791e",
+    "revision": "20c33c77c6f5bddfd818",
     "url": "/xanastur_concept/static/css/main.a43f1597.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xanastur_concept/static/js/2.44a0669d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c83d2a63487cd74d791e",
-    "url": "/xanastur_concept/static/js/main.17f0ecc0.chunk.js"
+    "revision": "20c33c77c6f5bddfd818",
+    "url": "/xanastur_concept/static/js/main.7007785a.chunk.js"
   },
   {
     "revision": "3664f36a2b84bab98c6e",
