@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { SIZES } from "../../theme";
 import bgImage from "./assets/cover.jpeg";
 export const Cover = styled.section`
   &::before {
@@ -74,11 +75,25 @@ export const Header = styled.section`
     margin: 0.5em;
     font-size: 3em;
   }
-  iframe {
-    border-radius: 5px;
+
+  #intro_video {
+    width: 700px;
+    max-width: 80vw;
     margin: auto;
-    width: 50vw;
-    height: 50vh;
+    z-index: 1;
+  }
+`;
+
+export const VideoWrapper = styled.div`
+  position: relative;
+
+  padding-bottom: 56.25%;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 `;
 export const Description = styled.div`
@@ -101,6 +116,9 @@ export const Description = styled.div`
     div {
       display: flex;
       flex-direction: row;
+      @media screen and (max-width: ${SIZES.large}) {
+        flex-direction: column;
+      }
     }
     p {
       margin: auto 0;
@@ -109,8 +127,17 @@ export const Description = styled.div`
   }
   #quienes_somos_img {
     float: left;
-    height: 300px;
+    width: 400px;
     border-radius: 5px;
     margin-right: 2em;
+    max-width: 80vw;
+    @media screen and (max-width: ${SIZES.large}) {
+      margin: auto;
+      margin-bottom: 2em;
+    }
+  }
+
+  @media screen and (max-width: ${SIZES.large}) {
+    padding: 5vw;
   }
 `;

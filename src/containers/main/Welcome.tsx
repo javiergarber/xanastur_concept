@@ -2,7 +2,7 @@ import React, { Component, Fragment } from "react";
 import { Link } from "react-scroll";
 import Footer from "../../components/footer/Footer";
 import Navbar from "../../components/navbar/Navbar";
-import { Cover, Description, Header } from "./welcome.style";
+import { Cover, Description, Header, VideoWrapper } from "./welcome.style";
 
 export default class Welcome extends Component {
   render() {
@@ -33,16 +33,20 @@ export default class Welcome extends Component {
         <Header>
           <div id="scrollAnchor"></div>
           <h1>Xanastur</h1>
-          <iframe
-            id="intro_video"
-            title="GOFFIN - Seremos uno - (AGILITY)-[Shot. Danipov]-[USHH]"
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/-qJxN2NPXp0"
-            frameBorder="0"
-            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
+          <div id="intro_video">
+            <VideoWrapper>
+              <iframe
+                id="intro_video"
+                title="GOFFIN - Seremos uno - (AGILITY)-[Shot. Danipov]-[USHH]"
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/-qJxN2NPXp0"
+                frameBorder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>
+            </VideoWrapper>
+          </div>
         </Header>
         <Description>
           <section>

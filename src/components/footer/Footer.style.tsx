@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { SIZES } from "../../theme";
 export const FooterSection = styled.footer`
   background-color: rgb(143, 137, 106);
 
@@ -11,11 +12,16 @@ export const UpperFooter = styled.div`
   flex-direction: row;
   padding: 2em;
   justify-content: space-between;
+  @media screen and (max-width: ${SIZES.medium}) {
+    flex-direction: column;
+    text-align: center;
+  }
 `;
 export const ContactInformation = styled.div`
   p {
     font-size: 12px;
     margin: 0px;
+    margin-right: 1em;
     color: white;
     font-weight: 600;
     line-height: 1.5em;
@@ -24,6 +30,10 @@ export const ContactInformation = styled.div`
 export const Sponsors = styled.div`
   display: flex;
   flex-direction: column;
+  @media screen and (max-width: ${SIZES.medium}) {
+    margin-top: 1em;
+  }
+
   h3 {
     margin-top: 0;
     color: white;
@@ -32,13 +42,15 @@ export const Sponsors = styled.div`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-  }
-  img {
-    border-radius: 3px;
-    width: 50px;
-    height: 50px;
-    margin-right: 1em;
-    cursor: pointer;
+    flex-wrap: wrap;
+    img {
+      margin-bottom: 1em;
+      border-radius: 3px;
+      width: 50px;
+      height: 50px;
+      margin-right: 1em;
+      cursor: pointer;
+    }
   }
 `;
 

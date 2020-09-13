@@ -3,6 +3,7 @@ export const Nav = styled.nav`
   width: 100%;
   position: sticky;
   top: 0;
+  z-index:1000;
   background-color: white;
   box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
   ul {

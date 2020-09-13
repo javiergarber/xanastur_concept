@@ -51,23 +51,23 @@ export default class Footer extends Component {
         <BottomFooter>
           <DesignedByWrapper>
             <p>
-              Desgined by{" "}
+              ¿Te gusta lo que ves? Contacta con{" "}
               <a href="https://www.linkedin.com/in/javiergarber/">
                 Javier García Bermúdez
               </a>
             </p>
           </DesignedByWrapper>
           <ContactIconsWrapper>
-            <a href="">
+            <a href="TODO">
               <img src={require("./assets/001-facebook.svg")} alt="" />
             </a>
-            <a href="">
+            <a href="TODO">
               <img src={require("./assets/008-youtube.svg")} alt="" />
             </a>
-            <a href="">
+            <a href="TODO">
               <img src={require("./assets/003-whatsapp.svg")} alt="" />
             </a>
-            <a href="">
+            <a href="TODO">
               <img src={require("./assets/017-mail.svg")} alt="" />
             </a>
           </ContactIconsWrapper>
