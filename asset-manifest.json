@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/xanastur_concept/static/css/main.a43f1597.chunk.css",
-    "main.js": "/xanastur_concept/static/js/main.acb5eb99.chunk.js",
-    "main.js.map": "/xanastur_concept/static/js/main.acb5eb99.chunk.js.map",
+    "main.js": "/xanastur_concept/static/js/main.d715c09b.chunk.js",
+    "main.js.map": "/xanastur_concept/static/js/main.d715c09b.chunk.js.map",
     "runtime-main.js": "/xanastur_concept/static/js/runtime-main.093b1360.js",
     "runtime-main.js.map": "/xanastur_concept/static/js/runtime-main.093b1360.js.map",
-    "static/js/2.bfb94700.chunk.js": "/xanastur_concept/static/js/2.bfb94700.chunk.js",
-    "static/js/2.bfb94700.chunk.js.map": "/xanastur_concept/static/js/2.bfb94700.chunk.js.map",
+    "static/js/2.cf047bcf.chunk.js": "/xanastur_concept/static/js/2.cf047bcf.chunk.js",
+    "static/js/2.cf047bcf.chunk.js.map": "/xanastur_concept/static/js/2.cf047bcf.chunk.js.map",
     "index.html": "/xanastur_concept/index.html",
-    "precache-manifest.99709b77d5c1852c3688554ea8ccf814.js": "/xanastur_concept/precache-manifest.99709b77d5c1852c3688554ea8ccf814.js",
+    "precache-manifest.b149bd3a2c249c22f2f917cefda38366.js": "/xanastur_concept/precache-manifest.b149bd3a2c249c22f2f917cefda38366.js",
     "service-worker.js": "/xanastur_concept/service-worker.js",
     "static/css/main.a43f1597.chunk.css.map": "/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
-    "static/js/2.bfb94700.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.bfb94700.chunk.js.LICENSE.txt",
+    "static/js/2.cf047bcf.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.cf047bcf.chunk.js.LICENSE.txt",
     "static/media/001-facebook.svg": "/xanastur_concept/static/media/001-facebook.57d3f125.svg",
     "static/media/003-whatsapp.svg": "/xanastur_concept/static/media/003-whatsapp.db267fdf.svg",
     "static/media/008-youtube.svg": "/xanastur_concept/static/media/008-youtube.e571414b.svg",
@@ -23,18 +23,20 @@
     "static/media/centro_veterinario_montevil.jpg": "/xanastur_concept/static/media/centro_veterinario_montevil.4ba70043.jpg",
     "static/media/deporte_as.jpeg": "/xanastur_concept/static/media/deporte_as.578e20b2.jpeg",
     "static/media/down_arrow.svg": "/xanastur_concept/static/media/down_arrow.4ddd64c2.svg",
+    "static/media/download_icon.4bd78107.svg": "/xanastur_concept/static/media/download_icon.4bd78107.svg",
     "static/media/frisbee.jpg": "/xanastur_concept/static/media/frisbee.325b1532.jpg",
     "static/media/habilidades_caninas.jpg": "/xanastur_concept/static/media/habilidades_caninas.6e4cb355.jpg",
     "static/media/image1.jpg": "/xanastur_concept/static/media/image1.a54c5efa.jpg",
     "static/media/logo_xanastur.jpg": "/xanastur_concept/static/media/logo_xanastur.6397aa11.jpg",
     "static/media/obediencia.jpeg": "/xanastur_concept/static/media/obediencia.4ee34689.jpeg",
     "static/media/real_sociedad_canina_española.png": "/xanastur_concept/static/media/real_sociedad_canina_española.381b6dae.png",
-    "static/media/rota_empotrados.jpg": "/xanastur_concept/static/media/rota_empotrados.2d753af7.jpg"
+    "static/media/rota_empotrados.jpg": "/xanastur_concept/static/media/rota_empotrados.2d753af7.jpg",
+    "static/media/tarifas.pdf": "/xanastur_concept/static/media/tarifas.eaf1b886.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.093b1360.js",
-    "static/js/2.bfb94700.chunk.js",
+    "static/js/2.cf047bcf.chunk.js",
     "static/css/main.a43f1597.chunk.css",
-    "static/js/main.acb5eb99.chunk.js"
+    "static/js/main.d715c09b.chunk.js"
   ]
 }

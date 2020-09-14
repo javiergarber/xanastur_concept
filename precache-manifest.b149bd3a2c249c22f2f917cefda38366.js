@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dfb384469b742771dbe0c7e721c58f3",
+    "revision": "0fa651fb7c46d10e8f9d0b709b4802a4",
     "url": "/xanastur_concept/index.html"
   },
   {
-    "revision": "dc95592178a58275d928",
+    "revision": "9f712ac26b3597b9cd01",
     "url": "/xanastur_concept/static/css/main.a43f1597.chunk.css"
   },
   {
-    "revision": "cef82accb161ca6d2b08",
-    "url": "/xanastur_concept/static/js/2.bfb94700.chunk.js"
+    "revision": "303e83c4cbe33920cf74",
+    "url": "/xanastur_concept/static/js/2.cf047bcf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/xanastur_concept/static/js/2.bfb94700.chunk.js.LICENSE.txt"
+    "url": "/xanastur_concept/static/js/2.cf047bcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc95592178a58275d928",
-    "url": "/xanastur_concept/static/js/main.acb5eb99.chunk.js"
+    "revision": "9f712ac26b3597b9cd01",
+    "url": "/xanastur_concept/static/js/main.d715c09b.chunk.js"
   },
   {
     "revision": "3664f36a2b84bab98c6e",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xanastur_concept/static/media/down_arrow.4ddd64c2.svg"
   },
   {
+    "revision": "4bd7810751db4886bc6c817bd24abbaf",
+    "url": "/xanastur_concept/static/media/download_icon.4bd78107.svg"
+  },
+  {
     "revision": "325b1532767032d50c5651dabffd333b",
     "url": "/xanastur_concept/static/media/frisbee.325b1532.jpg"
   },
@@ -94,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d753af7a93ff4091303f13e483ef561",
     "url": "/xanastur_concept/static/media/rota_empotrados.2d753af7.jpg"
+  },
+  {
+    "revision": "eaf1b88624787577a8e6795d236f1630",
+    "url": "/xanastur_concept/static/media/tarifas.eaf1b886.pdf"
   }
 ]);
