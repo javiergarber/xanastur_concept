@@ -51,7 +51,7 @@ export default class Footer extends Component {
         <BottomFooter>
           <DesignedByWrapper>
             <p>
-              ¿Te gusta lo que ves? Contacta con{" "}
+              Designed by{" "}
               <a href="https://www.linkedin.com/in/javiergarber/">
                 Javier García Bermúdez
               </a>

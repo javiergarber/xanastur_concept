@@ -69,7 +69,7 @@ export const League = styled.div`
 
   img {
     border-radius: 3px;
-    height: 50px;
+    height: 70px;
     margin: 0 auto;
     cursor: pointer;
   }
@@ -93,6 +93,7 @@ export const BottomFooter = styled.div`
 export const DesignedByWrapper = styled.div`
   padding: 1em;
   color: white;
+  font-size: 0.8em;
   p {
     margin: 0;
   }
