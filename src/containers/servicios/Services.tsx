@@ -1,9 +1,15 @@
 import * as React from "react";
 import { Component } from "react";
 import ScrollAnimation from "react-animate-on-scroll";
+import DocumentDownloadButton from "../../components/document-download-button/DocumentDownloadButton";
 import Footer from "../../components/footer/Footer";
 import Navbar from "../../components/navbar/Navbar";
-import { PageTitle, ServicesPage } from "./Services.style";
+import {ReactComponent as Icon} from "./assets/download_icon.svg"
+import {
+  DownloadButtonWrapper,
+  PageTitle,
+  ServicesPage,
+} from "./Services.style";
 export default class Services extends Component {
   render() {
     return (
@@ -137,6 +143,15 @@ export default class Services extends Component {
             </div>
           </section>
         </ServicesPage>
+        <DownloadButtonWrapper>
+          <DocumentDownloadButton
+            buttonText="Descarga nuestras tarifas y horarios"
+            document={require("./assets/tarifas.pdf")}
+            documentName="Tarifas_xanastur_2018.pdf"
+            image={<Icon  className="button_icon"></Icon>}
+          ></DocumentDownloadButton>
+        </DownloadButtonWrapper>
+
         <Footer></Footer>
       </React.Fragment>
     );

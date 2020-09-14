@@ -86,3 +86,16 @@ export const PageTitle = styled.h1`
   text-align: center;
   text-transform: uppercase;
 `;
+
+export const DownloadButtonWrapper = styled.div`
+  height: 5em;
+  text-align: center;
+  margin-bottom: 2em;
+  img {
+    height: 24px;
+    margin-right: 1em;
+    :hover {
+      color: white;
+    }
+  }
+`;
