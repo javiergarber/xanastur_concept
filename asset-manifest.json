@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/xanastur_concept/static/css/main.a43f1597.chunk.css",
-    "main.js": "/xanastur_concept/static/js/main.d715c09b.chunk.js",
-    "main.js.map": "/xanastur_concept/static/js/main.d715c09b.chunk.js.map",
+    "main.js": "/xanastur_concept/static/js/main.5240ef60.chunk.js",
+    "main.js.map": "/xanastur_concept/static/js/main.5240ef60.chunk.js.map",
     "runtime-main.js": "/xanastur_concept/static/js/runtime-main.093b1360.js",
     "runtime-main.js.map": "/xanastur_concept/static/js/runtime-main.093b1360.js.map",
     "static/js/2.cf047bcf.chunk.js": "/xanastur_concept/static/js/2.cf047bcf.chunk.js",
     "static/js/2.cf047bcf.chunk.js.map": "/xanastur_concept/static/js/2.cf047bcf.chunk.js.map",
     "index.html": "/xanastur_concept/index.html",
-    "precache-manifest.b149bd3a2c249c22f2f917cefda38366.js": "/xanastur_concept/precache-manifest.b149bd3a2c249c22f2f917cefda38366.js",
+    "precache-manifest.8f350b5e40830e47ee86c73c6d853bcf.js": "/xanastur_concept/precache-manifest.8f350b5e40830e47ee86c73c6d853bcf.js",
     "service-worker.js": "/xanastur_concept/service-worker.js",
     "static/css/main.a43f1597.chunk.css.map": "/xanastur_concept/static/css/main.a43f1597.chunk.css.map",
     "static/js/2.cf047bcf.chunk.js.LICENSE.txt": "/xanastur_concept/static/js/2.cf047bcf.chunk.js.LICENSE.txt",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.093b1360.js",
     "static/js/2.cf047bcf.chunk.js",
     "static/css/main.a43f1597.chunk.css",
-    "static/js/main.d715c09b.chunk.js"
+    "static/js/main.5240ef60.chunk.js"
   ]
 }
